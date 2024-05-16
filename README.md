@@ -7,9 +7,13 @@ The Loan Approval Prediction project aims to build a machine learning model that
 Project Members:
 
 Rahul Suryawanshi
+
 Dipak Deore
+
 Hemant Yais
+
 Jayesh Ishi
+
 Features:
 
 Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
